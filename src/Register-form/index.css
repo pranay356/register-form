@@ -1,0 +1,70 @@
+.register{
+    height: 1100px;
+    width: 700px;
+    background-color: black;
+    margin-top: 100px;
+    margin-left: 550px;
+    border-radius:10px;
+}
+.register h1{
+   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    font-style: normal;
+    color: white;
+    padding-bottom: 20px;
+    margin-left: 40%;
+ 
+    
+
+}
+.label{
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+     font-weight: 700;
+     margin-bottom:10px;
+     margin-left: 50px;
+}
+.input input{
+    background: black;
+        border-radius: none;
+        outline: none;
+        padding: 20px;
+        display: block;
+        width: 80%;
+        margin-top: 10px;
+        border: 1px solid rgba(217, 217, 217,0.13);
+        color: white;
+        margin-bottom: 30px;
+        border-radius: 5px;
+        margin-left: 50px;
+}
+.button button{
+    background-color:rgba(217, 217, 217,0.13);
+        width: 87%;
+        height:60px;
+        left: 280px;
+        top: 643px;
+        color: white;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        border: none;
+        border-radius: 5px;
+        font-size: 18;
+        margin: 30px ;
+        margin-left: 50px;
+       
+
+}
+.gender{
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+p{
+    color: red;
+    margin-left: 50px;
+}
